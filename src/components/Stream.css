@@ -1,0 +1,26 @@
+.chat{
+   background-color: rgb(193, 182, 204);
+    height: 100%;
+    width: 35%;
+    float: right;
+}
+.video-area{
+    height: 100%;
+    width: 65%;
+    float: left;
+}
+.chat-content{
+    height: 600px;
+}
+.chat-area{
+    width: 100%;
+}
+.chat-area input{
+    width: 400px;
+    border-radius: 5%;
+}
+.container-fluid{
+    height: 678px;
+   background-color: aquamarine;
+    width: 100%;
+}
